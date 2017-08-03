@@ -1,0 +1,12 @@
+{
+    "name": "rduuke/certificados",
+    "authors": [
+        {
+            "name": "Juan Duque",
+            "email": "juuanduuke@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.6"
+    }
+}
